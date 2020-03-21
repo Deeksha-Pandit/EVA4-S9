@@ -1,8 +1,8 @@
 <h1>Resnet with Albumentations and GradCam<h1>
 <h3>  
-  Final Accuracy:
+  Final Accuracy: 90.85%
   
-  Epochs:
+  Epochs: 30
   
 
 Final.ipynb - Google Collab notebook
